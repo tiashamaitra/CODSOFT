@@ -1,3 +1,4 @@
+AIM:
 We aim to accomplist the following for this study:
 
 Identify and visualize which factors contribute to customer churn:
