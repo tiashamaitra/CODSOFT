@@ -1,9 +1,41 @@
-AIM:
-We aim to accomplist the following for this study:
+# Machine Learning Projects Repository
 
-Identify and visualize which factors contribute to customer churn:
+Welcome to my GitHub repository containing three machine learning projects. Each project is designed to showcase different aspects of my skills and interests in the field of machine learning.
 
-Build a prediction model that will perform the following:
+## Project 1: [Customer Churn Prediction]
 
-Classify if a customer is going to churn or not
-Preferably and based on model performance, choose a model that will attach a probability to the churn to make it easier for customer service to target low hanging fruits in their efforts to prevent churn
+### Description
+The purpose and goals of this project is to predict whether the customers has exited or not and also the probabilities of the respective churns.
+
+### Features
+Random Forest Classifier algorithm has been used.
+
+### Technologies Used
+- Libraries like pandas numpy,matplotlib etc are used in the project .
+
+
+
+## Project 2: [Movie Genre Classification]
+
+### Description
+The purpose and goals of this project is to predict the genre of movies.
+
+### Features
+Naive Bayes(multinomial NB) algorithm has been used.
+
+### Technologies Used
+- Libraries like pandas numpy,matplotlib etc are used in the project .
+
+
+
+## Project 3: [Spam Detection System]
+
+### Description
+The purpose and goals of this project is to predict whether the sms is spam or ham.
+### Features
+
+Random Forest Classifier algorithm has been used.
+### Technologies Used
+- Libraries like pandas numpy,matplotlib etc are used in the project .
+
+
